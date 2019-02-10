@@ -1,0 +1,50 @@
+/* Helvetica Neue Bold */
+@font-face {
+  font-family: 'HelveticaNeueBold';
+  src: url('../fonts/HelveticaNeueBold/HelveticaNeueCyr-Bold.eot');
+  src: url('../fonts/HelveticaNeueBold/HelveticaNeueCyr-Bold.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/HelveticaNeueBold/HelveticaNeueCyr-Bold.woff') format('woff'),
+  url('../fonts/HelveticaNeueBold/HelveticaNeueCyr-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Helvetica Neue Regular */
+@font-face {
+  font-family: 'HelveticaNeueRegular';
+  src: url('../fonts/HelveticaNeue/HelveticaNeueCyr-Roman.eot');
+  src: url('../fonts/HelveticaNeue/HelveticaNeueCyr-Roman.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/HelveticaNeue/HelveticaNeueCyr-Roman.woff') format('woff'),
+  url('../fonts/HelveticaNeue/HelveticaNeueCyr-Roman.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Helvetica Neue Light */
+@font-face {
+  font-family: 'HelveticaNeueLight';
+  src: url('../fonts/HelveticaNeueLight/HelveticaNeueCyr-Thin.eot');
+  src: url('../fonts/HelveticaNeueLight/HelveticaNeueCyr-Thin.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/HelveticaNeueLight/HelveticaNeueCyr-Thin.woff') format('woff'),
+  url('../fonts/HelveticaNeueLight/HelveticaNeueCyr-Thin.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+/* PT Serif Regular */
+@font-face {
+  font-family: 'PTSerifRegular';
+  src: url('../fonts/PTSerifRegular/PTSerif-Regular.eot');
+  src: url('../fonts/PTSerifRegular/PTSerif-Regular.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/PTSerifRegular/PTSerif-Regular.woff') format('woff'),
+  url('../fonts/PTSerifRegular/PTSerif-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+/* PT Serif Italic */
+@font-face {
+  font-family: 'PTSerifRegular';
+  src: url('../fonts/PTSerifItalic/PTSerif-Italic.eot');
+  src: url('../fonts/PTSerifItalic/PTSerif-Italic.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/PTSerifItalic/PTSerif-Italic.woff') format('woff'),
+  url('../fonts/PTSerifItalic/PTSerif-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
